@@ -303,4 +303,4 @@ dist
 .pnp.*
 LangChain/openaikey.txt
 LangChain/solve.py
-requiremts.txt
+.requiremts.txt
